@@ -4,7 +4,7 @@ This project is a full-stack, containerized web application developed for AnyCom
 
 Originally drafted by a senior developer, the project was handed off for completion, testing, and deployment into a production-like staging environment on AWS. As a cloud developer, I took ownership of building, testing, containerizing, and deploying the application using AWS-native services and CI/CD best practices.
 
-![Architecture Diagram](./architecture.png)
+![Architecture Diagram](lab10.png)
 
 🛠️ Key Features & Technologies
 - Backend: Python, Django
