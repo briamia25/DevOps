@@ -8,7 +8,7 @@ Originally drafted by a senior developer, the project was handed off for complet
 
 🛠️ Key Features & Technologies
 - Backend: Python, Django
-- Frontend: HTML/CSS (Django templates)
+- Frontend: HTML/CSS 
 - Databases: Amazon RDS (SQL) & DynamoDB (NoSQL)
 - Containerization: Docker, Amazon Elastic Container Registry (ECR)
 - Orchestration: Amazon Elastic Kubernetes Service (EKS)
